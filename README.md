@@ -5,7 +5,7 @@
 
 ### Purpose
 
-The Purpose of this project is to provide the client information on how different campaigns fared in relation to their launch dates and their funding goals. Using a dataset provided by Kickstarter and Excel we will visualize different campaign outcomes and show how they behave depending on the start date throughout the year, as well as the rate of each outcome depending on the Goal of the campaign.
+The Purpose of this analysis is to provide the client information on how different campaigns fared in relation to their launch dates and their funding goals. Using a dataset provided by Kickstarter and Excel we will visualize different campaign outcomes and show how they behave depending on the start date throughout the year, as well as the rate of each outcome depending on the Goal of the campaign.
 
 With these visualizations we will provide the client a study of if the success or failure of different campaigns has any relation to their launch dates and/or funding goals.
 
