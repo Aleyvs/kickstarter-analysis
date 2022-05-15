@@ -13,7 +13,7 @@ With these visualizations we will provide the client a study of if the success o
 
 ### Analysis of Outcomes Based on Launch Date
 
-For this analysis we are looking at the outcomes of Theater campaigns throughout the year and comparing them between the successful, failed and canceled campaigns. Looking at the graph below we can see that campaigns have a higher chance of succeeding if they are launched during the month of May, June and July. Also, February, April, August and September have a high success rate but when comparing them to the failed campaigns the difference is not so significant. 
+For this analysis we created a pivot table using the Kickstarted dataset. Fist we added a Year column using the =Year() formula and the "Date Created Conversion" column. With this column we were able to include in the pivot table a filter for Year as well as Parent Category. Using the filter for Theatre we are able to see the outcome of the campaigns depending on their outcome. Looking at the outcomes of Theater campaigns throughout the year and comparing them between the successful, failed and canceled campaigns we can see that campaigns have a higher chance of succeeding if they are launched during the month of May, June and July. Also, February, April, August and September have a high success rate but when comparing them to the failed campaigns the difference is not so significant. 
 
 ![Theater Outcomes by Launch Date](Resources/Theater_Outocomes_vs_Launch.png)
 
