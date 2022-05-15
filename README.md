@@ -15,7 +15,7 @@ With these visualizations we will provide the client a study of if the success o
 
 For this analysis we are looking at the outcomes of Theater campaigns throughout the year and comparing them between the successful, failed and canceled campaigns. Looking at the graph below we can see that campaigns have a higher chance of succeeding if they are launched during the month of May, June and July. Also, February, April, August and September have a high success rate but when comparing them to the failed campaigns the difference is not so significant. 
 
-![Theater Outcomes by Launch Date](../../Challenge%20Folder/Crowdfunding%20Analysis/Resources/Theater_Outocomes_vs_Launch.png)
+![Theater Outcomes by Launch Date](Resources/Theater_Outocomes_vs_Launch.png)
 
 Looking at the graph you can see that there is a relatively high number of successful campaigns on the months of February, April, August and September. But in comparison with the failed campaigns, we can see that close to 40 out of 100 campaigns are canceled or fail. On the other hand, looking at May, June and July the number of successful campaigns increases considerably while the failed campaigns keep stable.
 
@@ -23,11 +23,11 @@ Looking at the graph you can see that there is a relatively high number of succe
 
 For this analysis we used the =COUNTIFS() formula to create a table where we could see the number of successful, filed and canceled plays. Then using the =SUM() formula we can add the totals of each to see the Total number of projects for each Goal range. After getting the total number of projects we can calculate the % of projects that either fail or succeed on each Goal range.
 
-![Table1. Outcomes based on Goal](../../Challenge%20Folder/Crowdfunding%20Analysis/Resources/Table1_Outcomes_based_on_Goals.jpg)
+![Table1. Outcomes based on Goal](Resources/Table1_Outcomes_based_on_Goals.jpg)
 
 On the line graph below we are taking into consideration the number of successful, failed and canceled campaigns backing plays and looking at them in relation to the Goal set for each campaign. 
 
-![Outcomes Based on Goals](../../Challenge%20Folder/Crowdfunding%20Analysis/Resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
 
 We can instantly see that there were no canceled projects and so the graph shows only successful and failed campaigns. Looking at the percentage successful line (blue) we can see that as the Goal of the campaign grows the percentage of success is less, but that changes once the Goal is set over $20,000. There is no set pattern for the bigger Goals.
 
@@ -37,11 +37,11 @@ Taking into account this graph it is difficult to ascertain any type of pattern 
 
 For this first Analysis a pivot table was used for the whole data set provided, no mayor challenges were encountered the only difficulty is that we could take into account for this type of analysis would be to add the year into the comparison as well. The data is for a span of almost 10 years, but from 2009 to 2013 there is almost no campaigns. When adding new data for upcoming years, considering these as outliers based on the year could help the analysis be more accurate.
 
-![Theater Outcomes from 2009 to 2014](../../Challenge%20Folder/Crowdfunding%20Analysis/Resources/Theater%20Outcomes%2009%20to%2014.png)
+![Theater Outcomes from 2009 to 2014](Resources/Theater%20Outcomes%2009%20to%2014.png)
 
 On the second analysis there was a challenge. The graph created didn't really show enough information to provide the client with a concrete solution on how to approach a campaign. With this information it would be more useful to generate a bar graph showing the number of successful and failed projects on each Goal bracket. With this graph it would be easier for us to say that setting a lower goal is definitely the way to go, as the number of higher goal campaigns is not enough to do a deep dive analysis.
 
-![Success vs Failed based on Goals](../../Challenge%20Folder/Crowdfunding%20Analysis/Resources/Success_vs_Failed_based_on_Goal.png)
+![Success vs Failed based on Goals](Resources/Success_vs_Failed_based_on_Goal.png)
 
 ## Results
 
