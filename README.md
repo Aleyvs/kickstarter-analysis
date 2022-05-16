@@ -9,6 +9,7 @@ The Purpose of this analysis is to provide the client information on how differe
 
 With these visualizations we will provide the client a study of if the success or failure of different campaigns has any relation to their launch dates and/or funding goals.
 
+here write
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -54,6 +55,7 @@ On the second analysis there was a challenge. The graph created didn't really sh
 - What can you conclude about the Outcomes based on Goals?
 
     The line graph we made using percentages is not useful information. Since there are no cancelled projects there is only two options and this causes the lines in the graph to be the mirror of each other, since the percentage always adds up to 100% the relationship between failed and successful will always be the subtraction of each other to 100%. It also doesn't show the number of projects that are affecting the numbers, so it could be 500 shows or only 2 or 3. With this information we can't tell accurately if the trends are there or not.
+    Fixing the graph to show the number of projects for each goal bracket we can clearly see that the best way to succeed is to make your goal between $1000 and $5000 and using the analysis from the previous file, the chance of succeeding increases if you launch your campaign in the month of May.
 
 - What are some limitations of this dataset?
 
